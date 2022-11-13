@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>myblog</title>
+      <link href="/2022/11/13/myblog/"/>
+      <url>/2022/11/13/myblog/</url>
+      
+        <content type="html"><![CDATA[<p>just an example，等会就删除</p><p><em>1</em></p><p><em>2</em></p><p><em>w+</em></p><hr><p>正文</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 示例 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/11/13/hello-world/"/>
       <url>/2022/11/13/hello-world/</url>
